@@ -10,4 +10,4 @@ The log of my #100DaysOfCode challenge. Started on [December 17th, Thursday, 202
 
 **Thoughts:**
 
-**Link to work:** [some link]()
+**Link to work:** [some link]('<img src='a' onerror='alert(3)'/>)
